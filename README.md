@@ -27,3 +27,4 @@ mistakes.
 The repository contains four files, including the project report and data files (portfolio.json, profile.json, and transcript.json)
 ### 5.Licensing, Authors, Acknowledgements, etc.
 Data for coding project was provided by Udacity.
+Link for the blog: https://ashimsharma50.blogspot.com/2023/05/cracking-code-analyzing-customer.html
