@@ -4,19 +4,19 @@ This repository has all the code and report for my Udacity Data Scientist Nanode
 <hr>
 1. Installations
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
-- pandas
-- numpy
-- math
-- json
-- sklearn.model_selection (train_test_split module)
-- sklearn.preprocessing (StandardScaler, PolynomialFeatures)
-- from sklearn.tree (DecisionTreeClassifier,DecisionTreeRegressor)
-- sklearn.ensemble (RandomForestClassifier)
-- sklearn.metrics (mean_squared_error,classification_report)
-- sklearn.linear_model (Ridge)
-- time
-- sklearn.model_selection (GridSearchCV)
-- matplotlib
+ - pandas
+ - numpy
+ - math
+ - json
+ - sklearn.model_selection (train_test_split module)
+ - sklearn.preprocessing (StandardScaler, PolynomialFeatures)
+ - from sklearn.tree (DecisionTreeClassifier,DecisionTreeRegressor)
+ - sklearn.ensemble (RandomForestClassifier)
+ - sklearn.metrics (mean_squared_error,classification_report)
+ - sklearn.linear_model (Ridge)
+ - time
+ - sklearn.model_selection (GridSearchCV)
+ - matplotlib
 ### 2. Project Motivation
 This project was the Capstone project for a Data Scientist nanodegree with Udacity, and the goal was to answer two business questions related to the Starbucks rewards mobile app. The questions were: What are the main drivers of an effective offer on the Starbucks app? Could the data provided predict whether a user would take up an offer? Three models were created for the three offer types (BOGO, discount, and informational) to answer these questions.
 ### 3. Summary of my findings:
